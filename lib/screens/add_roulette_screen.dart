@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:practice/save/list_add.dart';
 import 'package:practice/screens/pra.dart';
 import 'package:provider/provider.dart';
-import 'package:practice/screens/pra.dart';
 
 class AddRouletteScreen extends StatefulWidget {
   static const String id = 'roulette_add_screen';
